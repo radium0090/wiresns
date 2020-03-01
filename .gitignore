@@ -1,0 +1,13 @@
+/server/node_modules
+/server/public/hot
+/server/public/storage
+/server/storage/debugbar
+/server/storage/framework
+/server/storage/logs
+/server/vendor
+/server/.env
+/server/.env.backup
+/server/.phpunit.result.cache
+npm-debug.log
+yarn-error.log
+.DS_Store
